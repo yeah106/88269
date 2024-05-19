@@ -23,7 +23,10 @@
             "key": "哔哩戏曲",
             "name": "🅱┃哔哩戏曲",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "playerType": 1,
             "ext": "./json/哔哩戏曲.json"
         },
