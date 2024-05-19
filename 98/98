@@ -1,5 +1,5 @@
 {
- "spider": "./yt.jar;md5;fd6a2cf8f31c7112731c5f90dab94847",
+ "spider": "https://ghproxy.net/https://raw.githubusercontent.com/yeah106/88269/main/98/527/98.jar;md5;fd6a2cf8f31c7112731c5f90dab94847",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
 
@@ -14,6 +14,18 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/哔哩音乐.json"
+        },
+
+
+ 
+ 
+    {
+            "key": "哔哩戏曲",
+            "name": "🅱┃哔哩戏曲",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "playerType": 1,
+            "ext": "./json/哔哩戏曲.json"
         },
 
  
