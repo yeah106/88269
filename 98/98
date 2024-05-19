@@ -13,7 +13,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/哔哩音乐.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/yeah106/88269/main/98/5766/2454946983.json"
         },
 
 
